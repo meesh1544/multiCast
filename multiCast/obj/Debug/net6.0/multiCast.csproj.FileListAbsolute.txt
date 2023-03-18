@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\multiCast\multiCast\bin\Debug\net6.0\multiCast.exe
+C:\Users\meesh\source\repos\multiCast\multiCast\bin\Debug\net6.0\multiCast.deps.json
+C:\Users\meesh\source\repos\multiCast\multiCast\bin\Debug\net6.0\multiCast.runtimeconfig.json
+C:\Users\meesh\source\repos\multiCast\multiCast\bin\Debug\net6.0\multiCast.dll
+C:\Users\meesh\source\repos\multiCast\multiCast\bin\Debug\net6.0\multiCast.pdb
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\multiCast.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\multiCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\multiCast.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\multiCast.AssemblyInfo.cs
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\multiCast.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\multiCast.dll
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\refint\multiCast.dll
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\multiCast.pdb
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\multiCast.genruntimeconfig.cache
+C:\Users\meesh\source\repos\multiCast\multiCast\obj\Debug\net6.0\ref\multiCast.dll
